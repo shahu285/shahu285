@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahu285
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in front-end job opportunities
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on projects and many more opportunities
 - 📫 How to reach me - Gmail - ishahu.2801@gmai.com
