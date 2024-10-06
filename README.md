@@ -1,14 +1,14 @@
-Hi there, I'm Shahu Ugale! 👋
+### Hi there, I'm Shahu Ugale! 👋
 
-🚀 AI & DS Engineering Student | Web Developer | AI Enthusiast
+🚀 **AI & DS Engineering Student | Web Developer | AI Enthusiast**
 
 I'm passionate about creating things that live on the internet, from websites to applications, and working with cutting-edge technologies in AI and Data Science.
 
-🚀 About Me:
+### 🚀 About Me:
 - 🎓 3rd Year Engineering Student (AI & DS) at DY Patil College of Engineering
 - 🖥️ Web Developer proficient in **HTML, CSS, PHP, JavaScript**
 - 🤖 Currently exploring **Artificial Intelligence** and **Machine Learning**
-- 📚 Enthusiastic about **Computer Vision** and Project Buildings
+- 📚 Enthusiastic about **Computer Vision** and **Project Building**
 - 🎶 Passionate about music, with experience in tabla and leading **Team Riyaaz**
 - ⚡ Fun Fact: I’m also a huge fan of Indian South Movies!
 
@@ -18,11 +18,11 @@ I'm passionate about creating things that live on the internet, from websites to
 - **Backend**: PHP, MySQL
 - **Version Control**: Git, GitHub
 - **AI & DS**: Exploratory journey into Machine Learning, Computer Vision
-- **Project Management**: Leading the management team at **ISA Club**, **Google Developer Student Club applicant**
+- **Project Management**: Leading the management team at **ISA Club**
 
 ### 🌟 Current Projects:
 - 🔨 Working on a website about **Batman’s rogues gallery** using parallax effects
-- 📝 Building knowledge and expertise in **Computer Vision for Object Detection**
+- 📝 Building knowledge and expertise in **Computer Vision for Project Building**
 - 🎯 Growing my **Instagram page** [@thefilmradar](https://www.instagram.com/thefilmradar) where I share movie reviews and recommendations
 
 ### 📈 My Goals:
@@ -33,6 +33,6 @@ I'm passionate about creating things that live on the internet, from websites to
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/shahuugale/)
 - [Instagram](https://www.instagram.com/thefilmradar)
-- [Email](mailto:shahuugale@example.com)
+- [Email](mailto: ishahu.2801@gmail.com)
 
 Let's connect and collaborate on exciting projects!
