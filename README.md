@@ -33,6 +33,6 @@ I'm passionate about creating things that live on the internet, from websites to
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/shahuugale/)
 - [Instagram](https://www.instagram.com/thefilmradar)
-- [Email](mailto: ishahu.2801@gmail.com)
+- [Email](ishahu.2801@gmail.com)
 
 Let's connect and collaborate on exciting projects!
