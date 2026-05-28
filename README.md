@@ -21,7 +21,6 @@ Passionate about building intelligent AI systems, autonomous agents, and real-wo
 ### 💻 Programming Languages
 - Python
 - Java
-- C++
 
 ### 🤖 AI & Generative AI
 - Large Language Models (LLMs)
